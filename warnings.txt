@@ -1,0 +1,17 @@
+Warning messages:
+1: [38;5;232m"101 N Business Hw..." not uniquely geocoded, using "101 north st #60, mansfield, mo 65704, usa"[39m
+2: [38;5;232m"6129 US Hwy 60 W,..." not uniquely geocoded, using "6129 us-60, brookline, mo 65619, usa"[39m
+3: [38;5;232m"704 S Highway 59 ..." not uniquely geocoded, using "anderson, mo 64831, usa"[39m
+4: [38;5;232m"609 N State Hwy 4..." not uniquely geocoded, using "609 state hwy 47 # c, warrenton, mo 63383, usa"[39m
+5: [38;5;232m"9107 NW 45 Hwy, P..." not uniquely geocoded, using "9107 mo-45, parkville, mo 64152, usa"[39m
+6: [38;5;232m"1100 Historic 66 ..." not uniquely geocoded, using "1100 historic 66 e, st robert, mo 65584, usa"[39m
+7: [38;5;232m"106 N. First Stre..." not uniquely geocoded, using "106 1st st, marble hill, mo 63764, usa"[39m
+8: [38;5;232m"808 Hunter, Suite..." not uniquely geocoded, using "1st st, sikeston, mo 63801, usa"[39m
+9: [38;5;232m"Truman Village/13..." not uniquely geocoded, using "1330 commercial st, warsaw, mo 65355, usa"[39m
+10: [38;5;232m"1100 B S Bishop A..." not uniquely geocoded, using "s bishop ave, rolla, mo 65401, usa"[39m
+11: [38;5;232m"3100 Broadway Wes..." not uniquely geocoded, using "3100 w broadway, columbia, mo 65203, usa"[39m
+12: [38;5;232m"11601 East US 40 ..." not uniquely geocoded, using "us-40, raytown, mo 64133, usa"[39m
+13: [38;5;232m"241 East Linwood ..." not uniquely geocoded, using "241 linwood blvd, kansas city, mo 64111, usa"[39m
+14: [38;5;232m"1101 Hwy 32 West,..." not uniquely geocoded, using "1101 state hwy 32, salem, mo 65560, usa"[39m
+15: [38;5;232m"9005 East 350 Hig..." not uniquely geocoded, using "e 350 hwy, raytown, mo 64133, usa"[39m
+16: [38;5;232m"2315 Technology D..." not uniquely geocoded, using "2315 technology dr, o'fallon, mo 63368, usa"[39m
