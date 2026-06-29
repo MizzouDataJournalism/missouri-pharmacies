@@ -1,10 +1,8 @@
 # Mapping Missouri pharmacies
 
----
-
 by Mariia Novoselia
 
-
+---
 
 ### Selecting and locating pharmacies
 
